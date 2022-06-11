@@ -834,36 +834,36 @@ if (!m.isGroup) return reply(lang.groupOnly())
 				}
             break
             
-            case 'donasi': case '💳donate💳':{
+            case 'donasi': case 'donate':{
             var but = [
           {
             "urlButton": {
-              "displayText": "YouTube Roz😎",
+              "displayText": "YouTube",
               "url": `${youtube}`
             }
           },
           {
             "urlButton": {
-              "displayText": "💌Instagram rozi💌",              
+              "displayText": "Instagram",              
               "url": `${myweb}`
 
             }
           },
           {
             "quickReplyButton": {
-              "displayText": "💬Rules💬",
+              "displayText": "Rules Bot",
 "id": 'rules'
             }
           },
           {
             "quickReplyButton": {
-              "displayText": "😼Owner zifabotz😼",
+              "displayText": "Owner Cekil",
 "id": 'owner'
             }
           },
 {
             "quickReplyButton": {
-              "displayText": "📮List Command",
+              "displayText": "List Command",
 "id": 'command'
             }
           }
