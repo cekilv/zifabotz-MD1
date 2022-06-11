@@ -86,12 +86,11 @@ exports.notNum = (q) => {
 }
 exports.menunya = (salam, pushname, botname) =>{
 	return`*Hai kak ${pushname} 👋 selamat ${salam}* ... 
-♡   ❍ㅤ  ⎙ㅤ ⌲
-╭─[ *_Cekilbot-MD_* ]─✧
+╭─[ *_SEWA BOT_* ]─✧
+  *--5k   1 Minggu--*
+  *--10k  3 Minggu--*
+  *--20k  Permanen--*
 ╰─────···
-📮 𝚂𝚒𝚕𝚊𝚔𝚊𝚗 𝚙𝚒𝚕𝚒𝚑 𝚋𝚞𝚝𝚝𝚘𝚗 𝚍𝚒 𝚋𝚊𝚠𝚊𝚑 𝚒𝚗𝚒_____•••••••••
-⬣━〔Powered By Cekil━⬣
-▌│█║▌║▌║║▌║▌║█│▌
 `
 }
 exports.listMenu = (time, salam, pushname, prefix) => {
@@ -315,7 +314,7 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 ╰❒ ${prefix}twitter link
 
 ╭─❒ 「 Primbon 」
-├ ${prefix}nomorhoki 887435047326
+├ ${prefix}nomorhoki 889515023118
 ├ ${prefix}artimimpi [query]
 ├ ${prefix}artinama [query]
 ├ ${prefix}ramaljodoh
@@ -1492,7 +1491,7 @@ exports.tqto = () =>{
 
 exports.primbonmenu = (prefix) =>{
 	return`╭─❒ 「 Primbon 」
-├ ${prefix}nomorhoki 887435047326
+├ ${prefix}nomorhoki 89515023118
 ├ ${prefix}artimimpi [query]
 ├ ${prefix}artinama [query]
 ├ ${prefix}ramaljodoh
