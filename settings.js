@@ -18,9 +18,9 @@ global.autoketik = false //status auto mengetik (auto typing)
 global.available = true //status online (online)
 
 // Other
-global.botname = "*⳹ ❋ུ۪۪CekilBotz-MD⳹ ❋ཻུ۪۪*" //namabot kalian
-global.zifa = "*⳹ ❋ཻུ۪۪⸙CekilBotz-MD⳹ ❋ཻུ۪۪*" //kontol kalian
-global.ownername= "*⳹ ❋ཻུ۪۪⸙CekilBotz-MD⳹ ❋ཻུ۪۪*" //nama kalian
+global.botname = "CekilBotz-MD⳹" //namabot kalian
+global.zifa = "*CekilBotz-MD" //kontol kalian
+global.ownername= "*CekilOfficial-MD⳹" //nama kalian
 global.myweb ="https://instagram.com/cekilgans" //bebas asal jan hapus
 global.youtube = "https://youtube.com/channel/U" //bebas asal jan hapus
 global.github = "https/github.com/cekilxd/" //bebas
@@ -30,7 +30,7 @@ global.ownernomer = "6289515023118" // nomor wa kalian
 global.ownernomerr = "+6289515023118" //nmr wa kalian
 global.thumbnail = "./image/rozi.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/zifa.jpg" // foto donasi di folder image
-global.background_welcome="https://telegra.ph/file/f19193f43448cbbeb5e7d.jpg" // maks size 30kb, agar welcome image nya tdk delay
+global.background_welcome="https://telegra.ph/file/b29ba27a2f63a873b0b15.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.owner = ["6289515023118"] //ganti agar fitur owner bisa di gunakan
 global.packname = 'CekilBotz-MD' //sticker wm ubah
 global.author = 'Cekil' //sticker wm ganti nama kalian
